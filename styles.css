@@ -2,8 +2,12 @@ body {
   background-color: powderblue;
 }
 h1 {
-  color: rgb(0, 0, 255)0, 0, 255);
+  color: rgb(0, 0, 255);
 }
 p {
   color: red;
+  margin: 100px;
+}
+img {
+  width:50%;height:50%;
 }
