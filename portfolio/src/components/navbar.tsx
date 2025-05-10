@@ -2,7 +2,6 @@ import React from "react";
 import Link from "next/link";
 import { useRouter } from "next/router";
 const Navbar: React.FC = () => {
-    const router=useRouter();
     return (
         <nav className="bg-white border-gray-200 fixed top-0 left-0 z-50 w-full">
             <div className="w-full flex flex-wrap items-center justify-between p-4">
